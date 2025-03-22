@@ -22,6 +22,10 @@ public class ScoreboardManager {
 
     }
 
+    public static void cancelTasks() {
+        EZScore.getInstance().getServer().getScheduler().cancelTasks(EZScore.getInstance());
+    }
+
     public static void create(Player player) {
         FastBoard board = new FastBoard(player);
         update(board);
