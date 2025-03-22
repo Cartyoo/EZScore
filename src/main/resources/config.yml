@@ -5,8 +5,8 @@ title: '&b&lEZScore'
 lines:
   - '&8&m                 '
   - '&aScoreboard line'
-  - '&bhi'
+  - '&bAnother scoreboard line'
   - '&8&m                 '
 
 # How often scoreboards should automatically refresh (in ticks)
-update-interval: 20
+update-interval: 10
