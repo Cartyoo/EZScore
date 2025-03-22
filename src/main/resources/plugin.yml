@@ -1,0 +1,6 @@
+name: EZScore
+version: '1.0.0'
+main: xyz.herberto.ezScore.EZScore
+api-version: '1.18'
+authors: [ herberto ]
+website: https://herberto.xyz
