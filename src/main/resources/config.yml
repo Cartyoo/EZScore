@@ -1,0 +1,12 @@
+
+# The scoreboard title
+title: '&b&lEZScore'
+
+lines:
+  - '&8&m                 '
+  - '&aScoreboard line'
+  - '&bhi'
+  - '&8&m                 '
+
+# How often scoreboards should automatically refresh (in ticks)
+update-interval: 20
